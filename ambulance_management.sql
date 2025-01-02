@@ -1,4 +1,4 @@
--- MySQL dump 10.13  Distrib 9.0.1, for macos14.7 (arm64)
+-- MySQL dump 10.13  Distrib 9.1.0, for macos14.7 (arm64)
 --
 -- Host: localhost    Database: ambulance_management
 -- ------------------------------------------------------
@@ -48,4 +48,4 @@ UNLOCK TABLES;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-01-02 13:39:20
+-- Dump completed on 2025-01-02 14:03:18
