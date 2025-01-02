@@ -18,7 +18,7 @@ app.use(
   })
 );
 
-onsole.log("Connecting to Database...");
+console.log("Connecting to Database...");
 const pool = mysql
   .createPool({
     host: process.env.DATABASE_HOST, // Read from environment variables
