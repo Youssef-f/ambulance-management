@@ -29,7 +29,7 @@ const pool = mysql
   })
   .promise();
 
-const port = 3002;
+const port = process.env.PORT || 3002;
 
 // Prometheus metrics setup
 const register = new client.Registry();
